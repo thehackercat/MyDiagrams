@@ -1,1 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T01:53:41.195Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.9" etag="XIGejJbHUlUYBi320jFc" type="github"><diagram id="9dLi7swM8aMJ6iKqiahB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-13T02:07:36.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="H-Lb2jzpYDaODnKXFaLm" version="13.7.9" type="github">
+  <diagram id="9dLi7swM8aMJ6iKqiahB" name="Page-1">
+    <mxGraphModel dx="1164" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--1" value="集群管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--4" value="查看大盘 dashboard" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--6" value="审计总览、审计查询、审批中心" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--7" value="集群负载、资源" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2BfkF9dUqRj2CmBpDTr--8" target="2BfkF9dUqRj2CmBpDTr--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BfkF9dUqRj2CmBpDTr--8" target="2BfkF9dUqRj2CmBpDTr--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2BfkF9dUqRj2CmBpDTr--8" target="2BfkF9dUqRj2CmBpDTr--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2BfkF9dUqRj2CmBpDTr--8" target="2BfkF9dUqRj2CmBpDTr--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2BfkF9dUqRj2CmBpDTr--8" target="2BfkF9dUqRj2CmBpDTr--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2BfkF9dUqRj2CmBpDTr--8" target="2BfkF9dUqRj2CmBpDTr--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--8" value="集群模块" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--9" value="master" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--10" value="etcd" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--11" value="kubelet" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--12" value="故障运维管理" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="420" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--13" value="一键部署" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--14" value="集群列表" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--23" value="灰度任务" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--24" value="集群巡检" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2BfkF9dUqRj2CmBpDTr--25" target="2BfkF9dUqRj2CmBpDTr--54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2BfkF9dUqRj2CmBpDTr--25" target="2BfkF9dUqRj2CmBpDTr--55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--25" value="告警" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="555" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--26" value="集群升级" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--27" value="多租户管理" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--28" value="集群 owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--29" value="查看大盘 dashboard" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--30" value="审计总览、审计查询、审批中心" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--31" value="集群负载、资源" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2BfkF9dUqRj2CmBpDTr--38" target="2BfkF9dUqRj2CmBpDTr--44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2BfkF9dUqRj2CmBpDTr--38" target="2BfkF9dUqRj2CmBpDTr--43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2BfkF9dUqRj2CmBpDTr--38" target="2BfkF9dUqRj2CmBpDTr--52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--38" value="集群模块" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--43" value="一键部署" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="365" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--44" value="集群列表" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--46" value="集群巡检" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="550" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BfkF9dUqRj2CmBpDTr--47" target="2BfkF9dUqRj2CmBpDTr--58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--47" value="告警" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--49" value="多租户管理" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--52" value="集群升级(需要走 tt ?)" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--54" value="全 cluster 告警汇总" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="540" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--55" value="单 cluster 告警配置" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="585" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--58" value="单 cluster 告警配置" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="680" y="505" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2BfkF9dUqRj2CmBpDTr--60" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#67ab9f&quot;&gt;存疑, 是否有必要增加类似集群 health check 需求，开放给开发者&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
